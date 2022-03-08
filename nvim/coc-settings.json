@@ -1,0 +1,21 @@
+{
+  "coc.preferences.formatOnSaveFiletypes": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "css",
+    "markdown",
+    "svelte",
+    "json"
+  ],
+  "prettier.printWidth": 100,
+  "diagnostic.checkCurrentLine": true,
+  "diagnostic.locationlistUpdate": true,
+  "diagnostic.infoSign": "i",
+  "diagnostic.hintSign": "~",
+  "tsserver.formatOnType":true,
+  "coc.preferences.formatOnType":true,
+  "coc.preferences.messageLevel":"error",
+  "svelte.enable-ts-plugin": true
+}

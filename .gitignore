@@ -1,0 +1,17 @@
+/clash
+/configstore
+/coc
+/freeplane
+/gtk-**
+/libexif
+/yarn
+/qBittorrent
+/nvim/plugged
+/nvim/UltiSnips
+/karabiner/automatic_backups
+/karabiner/assets
+/dotHammerspoon/Spoons
+.DS_Store
+/iterm2
+/kitty
+
